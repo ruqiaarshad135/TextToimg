@@ -1,6 +1,6 @@
 # 🎨 INNO CYBER AI Image Generator
 
-**Batch Image Generation Tool by M.Sabir Ali**
+**Batch Image Generation Tool by Ruqia Arshad**
 
 A powerful command-line tool for generating AI images in batch using multiple API options including Text-to-Image and Diffusion AI models.
 
